@@ -1,6 +1,6 @@
-# aoc-times
+# advent-of-code-leaderboard
 
-Fetches and displays solve times for Advent of Code private leaderboards.
+CLI tool to display solve times and rankings for Advent of Code private leaderboards.
 
 ## Setup
 
